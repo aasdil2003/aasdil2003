@@ -1,4 +1,4 @@
-# Hi there, I'm Aasdil! 👋
+# Hi there, I'm Aadil! 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and building awesome projects. Here's a little bit about me:
 
