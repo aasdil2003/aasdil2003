@@ -18,7 +18,7 @@
 
 ✅ **VASTRAZ** – Developed a responsive E-commerce platform, improving site speed by 35%
 
-✅ **[Project 2]** – Describe another project with a focus on its purpose and results achieved.
+✅ **BasketBloom** –Developed a full responsive grocery ordering platform, improving the availability.
 
 ✅ **[Project 3]** – Highlight a third project and the technologies used to build it.
 
