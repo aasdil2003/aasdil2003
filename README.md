@@ -20,7 +20,7 @@
 
 ✅ **BasketBloom** –Developed a full responsive grocery ordering platform, improving the availability.
 
-✅ **[Project 3]** – Highlight a third project and the technologies used to build it.
+✅ **AI career coach** – Developed a full responsive AI learning and resume optimisation platform.
 
 ---
 
